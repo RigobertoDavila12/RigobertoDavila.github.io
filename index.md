@@ -5,7 +5,7 @@
 Incluir imagenes
 
 
-<img src="https://andromedavaluecapital.com/wp-content/uploads/2018/02/neuronal-network-1024x585.jpg" alt="Red neuronal">
+<img src="https://i.pinimg.com/originals/8c/0a/c2/8c0ac22a19fd1c8af802c6ccdcdfbc5b.png" alt="Red neuronal">
 
 ![Grafo](https://www.madrimasd.org/blogs/matematicas/files/2012/09/Network_representation_of_brain_connectivity.jpg)
 
