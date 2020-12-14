@@ -1,7 +1,7 @@
 ## Bienvenidos a la Página de Lógica Matematica de Rigoberto Dávila
-## Este proyecto fue posible gracias a a las redes neuronales
-## Que son las redes neuroanles
-## Cuál es su relacion con la tería de grafoas
+## Este proyecto fue posible gracias a las redes neuronales
+## Que son las redes neuronales
+## Cuál es su relacion con la tería de grafos
 Incluir imagenes
 
 
@@ -19,7 +19,7 @@ Incluir imagenes
   language-code="es"
 ></df-messenger>
 
-<div>Teachable Machine Image Model</div>
+<div>Reconocimiento de imagen facial</div>
 <button type="button" onclick="init()">Start</button>
 <div id="webcam-container"></div>
 <div id="label-container"></div>
